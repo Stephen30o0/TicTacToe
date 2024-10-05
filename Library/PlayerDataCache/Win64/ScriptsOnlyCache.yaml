@@ -68,9 +68,6 @@ ScriptsOnlyBuild:
     methodName: StartGameAIAsO
   - assembly: Assembly-CSharp
     fullTypeName: IntroSceneManager
-    methodName: StartGameAIAsX
-  - assembly: Assembly-CSharp
-    fullTypeName: IntroSceneManager
     methodName: StartGameTwoPlayers
   sceneClasses:
     Assets/TicTacToe/Intro.unity:
@@ -1230,4 +1227,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/TicTacToe/Intro.unity
   - Assets/TicTacToe/TicTacToe.unity
-  playerPath: C:/Users/learn/gitrepos/TicTacToe/Build/TicTacToe.exe
+  playerPath: C:/Users/musev/TicTacToe.exe
